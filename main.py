@@ -2,6 +2,7 @@ import pytest
 
 
 def always_returns_true():
+    # Addsing some descriptive comment
     return False
 
 
